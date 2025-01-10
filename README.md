@@ -1,4 +1,4 @@
-# Customize UI README
+ # Customize UI README
 
 This experimental extension allows customizing VSCode user interface beyond what's normally possible, such as
 
